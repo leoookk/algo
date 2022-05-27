@@ -1,1 +1,1 @@
-@[TOC](Algorithm problems)
+# Algorithm problems
